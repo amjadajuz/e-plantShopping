@@ -10,7 +10,7 @@
     "preview": "vite build; vite preview --host",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "homepage": "https://amjadajuz.github.io/shoppingcart"
+    "homepage": "https://amjadajuz.github.io/e-plantShopping"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.3",
